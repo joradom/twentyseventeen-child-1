@@ -68,17 +68,21 @@
       <div class="about-author row">
       <hr>
       <h4>About the Author</h4>
+      <p>
         <div class="about-text col-xs-10">
-          <br />
-          Kimberly is a <a href="http://acodeabove.com/">freelance web developer</a>. While she always enjoys learning new technologies, her current favorite is AngularJS. 
-          <br/>
-          When not coding, Kimberly spends time with her three young boys and her husband, <a href="http://tattoodurango.com/portfolios/lawrence-pennington/">Lawrence Pennington</a>, in Durango, CO.
+          <p>
+            Kimberly is a <a href="http://kimberly.codes/">freelance web developer</a>. While she always enjoys learning new technologies, her current favorite is AngularJS. 
+          </p>
+          <p>
+            When not coding, Kimberly spends time with her three young boys and her husband, <a href="http://tattoodurango.com/portfolios/lawrence-pennington/">Lawrence Pennington</a>, in Durango, CO.
+          </p>
         </div><!-- .about-text -->
       <br />
       <div class="about-photo col-xs-2">
         <img src="http://localhost/wordpress/wp-content/uploads/2016/12/profile.jpg" alt="lamp stack kimberly pennington kimberlythegeek"/>
       </div><!-- .about-photo -->
-      <br />
+      </p>
+
       <ul class="post-footer">
         <li><a href="http://freecodecamp.com/kimberlythegeek"><i class="fa fa-free-code-camp" aria-hidden="true"></i></a></li>
         <li><a href="http://twitter.com/kimberlythegeek"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
