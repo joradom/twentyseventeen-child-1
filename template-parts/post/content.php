@@ -78,14 +78,15 @@
       <div class="about-photo col-xs-2">
         <img src="http://localhost/wordpress/wp-content/uploads/2016/12/profile.jpg" alt="lamp stack kimberly pennington kimberlythegeek"/>
       </div><!-- .about-photo -->
-        <ul class="post-footer">
-          <li><a href="http://freecodecamp.com/kimberlythegeek"><i class="fa fa-free-code-camp" aria-hidden="true"></i></a></li>
-          <li><a href="http://twitter.com/kimberlythegeek"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-          <li><a href="http://github.com/kimberlythegeek"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-          <li><a href="http://codepen.io/kimberlythegeek/pens/public"><i class="fa fa-codepen" aria-hidden="true"></i></a></li>
-          <li><a href="http://linkedin.com/in/kannepennington"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-          <li><a href="https://www.facebook.com/kimberlythegeek/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-        </ul><!-- .post-footer -->
+      <br />
+      <ul class="post-footer">
+        <li><a href="http://freecodecamp.com/kimberlythegeek"><i class="fa fa-free-code-camp" aria-hidden="true"></i></a></li>
+        <li><a href="http://twitter.com/kimberlythegeek"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="http://github.com/kimberlythegeek"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+        <li><a href="http://codepen.io/kimberlythegeek/pens/public"><i class="fa fa-codepen" aria-hidden="true"></i></a></li>
+        <li><a href="http://linkedin.com/in/kannepennington"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+        <li><a href="https://www.facebook.com/kimberlythegeek/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+      </ul><!-- .post-footer -->
       </div><!-- .about-author -->
     </div><!-- .container-fluid -->
 	</div><!-- .entry-content -->
