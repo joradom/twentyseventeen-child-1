@@ -62,8 +62,9 @@
 				'link_after'  => '</span>',
 			) );
 		?>
-    
-    
+	</div><!-- .entry-content -->
+
+	<?php if ( is_single() ) : ?>
     <div class="container-fluid">
       <div class="about-author row">
       <hr>
@@ -93,9 +94,6 @@
       </ul><!-- .post-footer -->
       </div><!-- .about-author -->
     </div><!-- .container-fluid -->
-	</div><!-- .entry-content -->
-
-	<?php if ( is_single() ) : ?>
 		<?php twentyseventeen_entry_footer(); ?>
 	<?php endif; ?>
 
