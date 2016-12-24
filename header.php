@@ -18,7 +18,13 @@
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+<script src="https://use.fontawesome.com/e1862a0f00.js"></script>
+<link href="/wordpress/wp-content/themes/twentyseventeen-child/css/bootstrap.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/typed.js"></script>
 <?php wp_head(); ?>
 </head>
 
