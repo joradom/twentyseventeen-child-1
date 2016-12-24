@@ -23,8 +23,8 @@
 <script src="https://use.fontawesome.com/e1862a0f00.js"></script>
 <link href="/wordpress/wp-content/themes/twentyseventeen-child/css/bootstrap.css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="js/jquery.min.js"></script>
-<script src="js/typed.js"></script>
+<script src="/wp-content/themes/twentyseventeen-child/js/jquery.min.js"></script>
+<script src="/wp-content/themes/twentyseventeen-child/js/typed.js"></script>
 <?php wp_head(); ?>
 </head>
 
