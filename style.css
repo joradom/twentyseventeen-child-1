@@ -99,6 +99,7 @@ small {
 }
 pre {
   font-size: 13px;
+  white-space: pre-wrap;
 }
 .post-footer {
   float: left;
