@@ -142,6 +142,18 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+ol,
+ul {
+  width: 90%;
+  padding-left: 10%;
+}
+li {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+pre strong {
+  background-color: #90ee90;
+}
 @media screen and (min-width: 48em) {
   .wrap {
     max-width: 1200px;
