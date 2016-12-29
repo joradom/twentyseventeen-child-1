@@ -27,6 +27,8 @@ get_header(); ?>
 		<h2 class="page-title"><?php _e( 'Posts', 'twentyseventeen' ); ?></h2>
 	</header>
 	<?php endif; ?>
+  
+  <?php get_sidebar("left"); ?>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
@@ -61,7 +63,6 @@ get_header(); ?>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
-  <?php dynamic_sidebar('sidebar-left'); ?>
 	<?php get_sidebar(); ?>
 </div><!-- .wrap -->
 
