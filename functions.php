@@ -10,4 +10,5 @@
   		'after_title'   => '</h2>',
   	) );
   }
+  add_action( 'widgets_init', 'twentyseventeen_child_widgets_init' );
 ?>
