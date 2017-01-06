@@ -21,9 +21,10 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
 <script src="https://use.fontawesome.com/e1862a0f00.js"></script>
-<link href="/wp-content/themes/twentyseventeen-child/css/bootstrap.css">
-<link href="/wp-content/themes/twentyseventeen-child/css/dracula.css">
+<link rel="stylesheet" href="/wp-content/themes/twentyseventeen-child/css/bootstrap.css">
+<link rel="stylesheet" href="/wp-content/themes/twentyseventeen-child/css/dracula.css">
 <script src="/wp-content/themes/twentyseventeen-child/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <?php wp_head(); ?>
 </head>
