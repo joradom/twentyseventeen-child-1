@@ -154,6 +154,12 @@ li {
 pre strong {
   background-color: #10111b;
 }
+.single-featured-image-header {
+  height: 300px;
+}
+.single-featured-image-header img {
+  max-width: 600px;
+}
 @media screen and (min-width: 48em) {
   .wrap {
     max-width: 1200px;
