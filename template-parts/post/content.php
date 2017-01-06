@@ -67,6 +67,9 @@
 	<?php if ( is_single() ) : ?>
     <div class="container-fluid">
       <div class="about-author row">
+        <div class="highlighting">
+          Syntax Highlighting by <a href="https://highlightjs.org/">highlight.js</a>
+        </div>
       <hr>
       <h4>About the Author</h4>
       <p>

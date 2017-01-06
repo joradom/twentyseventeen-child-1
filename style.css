@@ -101,15 +101,6 @@ pre {
   font-size: 13px;
   white-space: pre-wrap;
 }
-.post-footer {
-  float: left;
-  list-style: none;
-  width: 100%;
-}
-.post-footer li {
-  display: inline-block;
-  font-size: 1.6rem;
-}
 .about-text {
   float: left;
   padding-right: 2rem;
@@ -142,6 +133,10 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+.highlighting {
+  font-style: italic;
+  text-align: right;
+}
 ol,
 ul {
   width: 90%;
@@ -150,6 +145,15 @@ ul {
 li {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+}
+.post-footer {
+  float: left;
+  list-style: none;
+  width: 100%;
+}
+.post-footer li {
+  display: inline-block;
+  font-size: 1.6rem;
 }
 pre strong {
   background-color: #10111b;
