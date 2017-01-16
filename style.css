@@ -154,6 +154,10 @@ li {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
+li ul,
+li ol {
+  padding-left: initial;
+}
 .post-footer {
   float: left;
   list-style: none;
