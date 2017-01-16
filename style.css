@@ -101,6 +101,9 @@ pre {
   font-size: 13px;
   white-space: pre-wrap;
 }
+a {
+  font-weight: bold;
+}
 .about-text {
   float: left;
   padding-right: 2rem;
