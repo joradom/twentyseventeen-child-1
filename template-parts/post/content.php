@@ -83,7 +83,7 @@
         </div><!-- .about-text -->
       <br />
       <div class="about-photo col-xs-2">
-        <img src="http://localhost/wordpress/wp-content/uploads/2016/12/profile.jpg" alt="lamp stack kimberly pennington kimberlythegeek"/>
+        <img src="/wp-content/uploads/2016/12/profile.jpg" alt="lamp stack kimberly pennington kimberlythegeek"/>
       </div><!-- .about-photo -->
       </p>
 
