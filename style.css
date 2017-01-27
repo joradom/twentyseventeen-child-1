@@ -170,7 +170,7 @@ li ol {
   display: inline-block;
   font-size: 1.6rem;
 }
-pre strong {
+pre code strong {
   background-color: #10111b;
 }
 .single-featured-image-header {
