@@ -135,6 +135,10 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+blockquote.warning {
+  background: rgba(255,155,53,0.4);
+  border-left: 10px solid rgba(255,155,53,0.6);
+}
 code {
   color: #086375;
   background-color: rgba(8,99,117,0.15);
