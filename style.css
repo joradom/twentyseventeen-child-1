@@ -31,6 +31,9 @@ a {
   transition: none;
   transition: none;
 }
+h2 {
+  color: #3e3e3e;
+}
 @import url("https//fonts.googleapis.com/css?family=Inconsolata");
 h1,
 h2,
@@ -45,7 +48,7 @@ body {
   font-family: 'Inconsolata', monospace;
 }
 body {
-  font-size: 0.875rem;
+  font-size: 0.95rem;
   font-weight: 400;
   line-height: 20px;
 }
@@ -66,14 +69,13 @@ h4,
 h5,
 h6 {
   font-weight: 200;
-  text-shadow: 0 1px 0 rgba(0,0,0,0.3);
 }
 .large {
   font-size: 4.5rem;
   letter-spacing: -3px;
 }
 h1 {
-  font-size: 3rem;
+  font-size: 2.625rem;
   letter-spacing: -2px;
 }
 h2 {
