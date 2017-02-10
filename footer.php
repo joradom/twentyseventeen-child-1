@@ -13,7 +13,7 @@
  */
 
 ?>
-<script type="text/javascript" src="/js/scripts.js"></script>
+<script type="text/javascript" src="wp-content/themes/twentyseventeen-child/js/scripts.js"></script>
 		</div><!-- #content -->
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
