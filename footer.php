@@ -41,6 +41,7 @@
 	</div><!-- .site-content-contain -->
 </div><!-- #page -->
 <?php wp_footer(); ?>
+<script type="text/javascript" src="wp-content/themes/twentyseventeen-child/js/jquery.min.js"></script>
 <script type="text/javascript" src="wp-content/themes/twentyseventeen-child/js/scripts.js"></script>
 
 </body>
